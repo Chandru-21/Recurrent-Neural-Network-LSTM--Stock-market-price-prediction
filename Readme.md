@@ -16,6 +16,7 @@ The input values(X_TRAIN) must be the stock prices at time t(0-59) and the outpu
 
 
 MODEL:
+
 1)Import the Keras packages(Tensorflow-keras)
 
 2)Initalize RNN(Sequential)
@@ -30,5 +31,5 @@ MODEL:
 
 7)Fit the model to the training set
 
-8)Make prediction and visualize the output
+8)Make predictions and visualize the output
 
